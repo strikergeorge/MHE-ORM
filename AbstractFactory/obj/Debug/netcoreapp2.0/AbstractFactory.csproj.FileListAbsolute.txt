@@ -1,0 +1,12 @@
+C:\myTEWebCode\MHE\AbstractFactory\bin\Debug\netcoreapp2.0\AbstractFactory.deps.json
+C:\myTEWebCode\MHE\AbstractFactory\bin\Debug\netcoreapp2.0\AbstractFactory.dll
+C:\myTEWebCode\MHE\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.csprojAssemblyReference.cache
+C:\myTEWebCode\MHE\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\myTEWebCode\MHE\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\myTEWebCode\MHE\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.AssemblyInfo.cs
+C:\myTEWebCode\MHE\AbstractFactory\bin\Debug\netcoreapp2.0\AbstractFactory.pdb
+C:\myTEWebCode\MHE\AbstractFactory\bin\Debug\netcoreapp2.0\DAL.dll
+C:\myTEWebCode\MHE\AbstractFactory\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\myTEWebCode\MHE\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.csproj.CopyComplete
+C:\myTEWebCode\MHE\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.dll
+C:\myTEWebCode\MHE\AbstractFactory\obj\Debug\netcoreapp2.0\AbstractFactory.pdb

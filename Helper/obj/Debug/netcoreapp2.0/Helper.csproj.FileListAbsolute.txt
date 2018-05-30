@@ -1,0 +1,9 @@
+C:\myTEWebCode\MHE\Helper\bin\Debug\netcoreapp2.0\Helper.deps.json
+C:\myTEWebCode\MHE\Helper\bin\Debug\netcoreapp2.0\Helper.dll
+C:\myTEWebCode\MHE\Helper\bin\Debug\netcoreapp2.0\Helper.pdb
+C:\myTEWebCode\MHE\Helper\obj\Debug\netcoreapp2.0\Helper.csprojAssemblyReference.cache
+C:\myTEWebCode\MHE\Helper\obj\Debug\netcoreapp2.0\Helper.csproj.CoreCompileInputs.cache
+C:\myTEWebCode\MHE\Helper\obj\Debug\netcoreapp2.0\Helper.AssemblyInfoInputs.cache
+C:\myTEWebCode\MHE\Helper\obj\Debug\netcoreapp2.0\Helper.AssemblyInfo.cs
+C:\myTEWebCode\MHE\Helper\obj\Debug\netcoreapp2.0\Helper.dll
+C:\myTEWebCode\MHE\Helper\obj\Debug\netcoreapp2.0\Helper.pdb
